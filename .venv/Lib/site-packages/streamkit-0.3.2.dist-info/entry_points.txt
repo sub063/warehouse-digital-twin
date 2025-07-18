@@ -1,0 +1,3 @@
+[console_scripts]
+streamkit = streamkit.cli:main
+
