@@ -1,0 +1,7 @@
+streamlit
+simpy
+networkx
+numpy
+pandas
+plotly
+altair
